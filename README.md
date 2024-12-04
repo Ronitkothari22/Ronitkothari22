@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=👋+Welcome+to+Ronit+Kothari's+Profile!;Full+Stack+Developer+%7C+AI/ML+Enthusiast;Problem+Solver+%7C+Innovator;Open+for+Collaborations+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=👋+Welcome+to+Ronit+Kothari's+Profile!;Full+Stack+Developer+%7C+AI/ML+Enthusiast;Problem+Solver+%7C+Innovator;Let's+Build+Amazing+Things+Together!+🚀" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-<h2 align="center" style="color:#8A2BE2;">✨ Transforming Ideas into Scalable Solutions ✨</h2>
+<h2 align="center" style="color:#8A2BE2;">✨ "Code is like humor. When you have to explain it, it’s bad." ✨</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Focus-AI/ML%20and%20Full%20Stack%20Development-brightgreen" />
@@ -33,46 +33,54 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-## 🚀 **About Me**
-<div align="center">
-  <img src="https://media0.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300" alt="Coder GIF">
-</div>
-
-<ul>
-  <li>🔭 Currently working on **AI/ML-driven Web Applications**.</li>
-  <li>🌱 Exploring **Advanced System Design** and **Cloud-Native Architecture**.</li>
-  <li>🎯 Goal: **Impact millions through innovative technology**.</li>
-  <li>💡 Hobbies: Cricket 🏏, Traveling ✈️, and Movies 🎥.</li>
-</ul>
-
 ## 🛠️ **Technical Skills**
 <div align="center">
-  <h4>Programming Languages</h4>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js" alt="Programming Languages">
-  
-  <h4>Frontend Development</h4>
-  <img src="https://skillicons.dev/icons?i=html,css,react,flutter" alt="Frontend Development">
-
-  <h4>Backend Development</h4>
-  <img src="https://skillicons.dev/icons?i=nodejs,flask,django" alt="Backend Development">
-
-  <h4>Database & Cloud</h4>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws" alt="Database and Cloud">
-
-  <h4>Tools & Platforms</h4>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker" alt="Tools and Platforms">
+  <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
 </div>
 
-## 🏆 **Achievements**
-- 🏆 Top 10 in Gateway Hackathon.  
-- ⭐ 5 Star in **C/C++ and Java** on HackerRank.  
-- 📊 Solved 150+ Problems on LeetCode.  
-- 🎓 NPTEL Certified in **Data Structures** and **Algorithms**.  
-- 🤖 Developed NLP-based Resume Parsing System.
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <h4>Programming Languages</h4>
+        <img src="https://skillicons.dev/icons?i=python,java,cpp,js" alt="Languages">
+      </td>
+      <td align="center" width="33%">
+        <h4>Frontend Development</h4>
+        <img src="https://skillicons.dev/icons?i=html,css,react,flutter" alt="Frontend">
+      </td>
+      <td align="center" width="33%">
+        <h4>Backend Development</h4>
+        <img src="https://skillicons.dev/icons?i=nodejs,flask,django" alt="Backend">
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <h4>Database & Cloud</h4>
+        <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws" alt="Databases">
+      </td>
+      <td align="center">
+        <h4>Tools & Platforms</h4>
+        <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker" alt="Tools">
+      </td>
+      <td align="center">
+        <h4>AI/ML Frameworks</h4>
+        <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="AI/ML">
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
+
+## 🏆 **Achievements**
+- 🏆 Top 10 in Gateway Hackathon  
+- ⭐ 5 Star in **C/C++ and Java** on HackerRank  
+- 📊 Solved 150+ Problems on LeetCode  
+- 🎓 NPTEL Certified in **Data Structures** and **Algorithms**  
+- 🤖 Developed NLP-based Resume Parsing System  
 
 ## 📚 **Featured Projects**
 ### 1. Fake News Detector  
@@ -88,7 +96,15 @@
 [View Repository](https://github.com/Ronitkothari22/doctor-appointment)
 
 <div align="center">
+  <img src="https://media2.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" alt="Teamwork GIF">
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ronitkothari22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
 ## 📫 **Let’s Connect!**
@@ -110,5 +126,4 @@
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   <h3>🤝 Let's build something amazing together!</h3>
-  <p>Open for collaborations and innovative projects!</p>
 </div>
