@@ -90,32 +90,36 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Competitive Programming</h3>
+      <h3 align="center">Technical Achievements</h3>
       <div align="center">
         <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
       </div>
       <ul>
-        <li>🌟 CodeForces: Specialist (Peak: 1400)</li>
-        <li>⭐ CodeChef: 4-Star (1857)</li>
-        <li>🏆 Top 1% in Facebook HackerCup 2022</li>
-        <li>🎯 Solved 2000+ DSA Problems</li>
-        <li>🏅 Expert on GeeksforGeeks</li>
+        <li>🏆 Secured Top 10 Position at Gateway Hackathon</li>
+        <li>⭐ 5 Star in C/C++, JAVA on HackerRank</li>
+        <li>📊 Solved 150+ Problems on LeetCode</li>
+        <li>🎓 NPTEL Certified in Design and Analysis of Algorithms</li>
+        <li>🤖 Machine Learning Certifications from Coursera</li>
       </ul>
     </td>
     <td width="50%">
-      <h3 align="center">Professional Journey</h3>
+      <h3 align="center">Professional Milestones</h3>
       <div align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
+        <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e52825.gif" width="100">
       </div>
       <ul>
-        <li>🚀 Founded 404DEV (2019 - 2023)</li>
-        <li>🌱 Youngest Attendee at CEBIT 2018</li>
-        <li>💻 Full Stack Developer with 3+ Years Experience</li>
-        <li>🎓 Computer Science Enthusiast</li>
-        <li>👨‍💻 Open Source Contributor</li>
+        <li>🚀 AI/ML Intern at CLUMOSS (Aug 2023 - Sept 2023)</li>
+        <li>💡 Developed Predictive Maintenance System</li>
+        <li>📊 Data Science Intern at TopiaLife Science</li>
+        <li>🏅 Improved Machine Learning Model Accuracy by 15%</li>
+        <li>🤖 Created Advanced NLP Resume Parsing System</li>
       </ul>
     </td>
   </tr>
+</table>
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 </table>
 
 <div align="center">
