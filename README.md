@@ -1,350 +1,81 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6E57F7&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Ronit+kothari;Full+Stack+Developer+AI+ML+Enthusiast;Problem+Solving+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6E57F7&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Ronit+Kothari;Full+Stack+Developer+AI/ML+Enthusiast;Problem+Solver+and+Innovator" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-<h3 align="center">Building scalable solutions with code, coffee, and creativity ☕</h3>
+<h3 align="center">Building scalable solutions with code, creativity, and technology ☕</h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-India-success" />
+  <img src="https://img.shields.io/badge/Focus-AI/ML%20and%20Full%20Stack%20Development-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Vadodara,%20India-success" />
   <img src="https://img.shields.io/badge/Languages-Hindi%20%26%20English-brightgreen" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/Ronitkothari22/Ronitkothari22">
-    <img src="https://komarev.com/ghpvc/?username=bytebrewer1&color=red" alt="profile views" />
+  <a href="https://github.com/Ronitkothari22">
+    <img src="https://komarev.com/ghpvc/?username=Ronitkothari22&color=red" alt="Profile Views" />
   </a>
-
+  <a href="https://www.hackerrank.com/22CS031_Ronit">
+    <img alt="HackerRank" src="https://img.shields.io/badge/hackerrank-5%20Stars-green?color=green&logo=hackerrank">
   </a>
-  <a href="https://www.hackerrank.com/profile/22CS031_Ronit">
-    <img alt="HackerRank" src="https://img.shields.io/badge/hackerrank-15+-green?color=green&logo=hackerrank">
-  </a>
-  <a href="https://github.com/Ronitkothari22?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/bytebrewer1?color=yellow&logo=github">
-  </a>
-
   <a href="https://www.linkedin.com/in/ronit-kothari-843987251/">
-    <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-3.1K-blue?color=blue&logo=linkedin">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/followers-3.1K-blue?color=blue&logo=linkedin">
   </a>
   <a href="https://ronitportfolio-ronitkotharis-projects.vercel.app/">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio_Views-3000-violet?color=indigo&logo=readme">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Click%20Here-violet?color=indigo&logo=web">
   </a>
-
 </div>
-
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxuaGRlN2RtYjQxNXZwcGZlMndrOTBpZnZvOGhxc2Fxem16MDh3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QHE5gWI0QjqF2/giphy.gif" width="300" alt="coding gif"/>
-</div>
-
-
-
-<div align="center">
-  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-</div>
-
-<br>
-
-<table align="center">
-  <tr>
-    <td width="50%">
-      <h3 align="center">💫 About Me</h3>
-      <div align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="250">
-      </div>
-      <ul>
-        <li>🔭 I'm currently working on <b>Scalable Cloud Solutions</b></li>
-        <li>🌱 I'm currently exploring <b>Advanced System Design & AI</b></li>
-        <li>💡 Building the future, one commit at a time</li>
-        <li>🎯 Goal: Impact millions through technology</li>
-      </ul>
-    </td>
-
-</table>
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
 ## 🏆 Achievements and Milestones
+<ul>
+  <li>🏆 Secured Top 10 Position at Gateway Hackathon</li>
+  <li>⭐ 5 Star in C/C++, JAVA on HackerRank</li>
+  <li>📊 Solved 150+ Problems on LeetCode</li>
+  <li>🎓 NPTEL Certified in Design and Analysis of Algorithms</li>
+  <li>🤖 Developed predictive models and advanced NLP systems</li>
+</ul>
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Technical Achievements</h3>
-      <div align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-      </div>
-      <ul>
-        <li>🏆 Secured Top 10 Position at Gateway Hackathon</li>
-        <li>⭐ 5 Star in C/C++, JAVA on HackerRank</li>
-        <li>📊 Solved 150+ Problems on LeetCode</li>
-        <li>🎓 NPTEL Certified in Design and Analysis of Algorithms</li>
-        <li>🤖 Machine Learning Certifications from Coursera</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3 align="center">Professional Milestones</h3>
-      <div align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e52825.gif" width="100">
-      </div>
-      <ul>
-        <li>🚀 AI/ML Intern at CLUMOSS (Aug 2023 - Sept 2023)</li>
-        <li>💡 Developed Predictive Maintenance System</li>
-        <li>📊 Data Science Intern at TopiaLife Science</li>
-        <li>🏅 Improved Machine Learning Model Accuracy by 15%</li>
-        <li>🤖 Created Advanced NLP Resume Parsing System</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-</table>
+## 📚 Projects
+1. **Fake News Detector**  
+   *Using TensorFlow, BERT, and LSTM for 91% accurate fake news detection.*  
+   [Repository Link](https://github.com/Ronitkothari22/fake-news-detector)
+
+2. **AttendX - WiFi-based Attendance System**  
+   *99.5% accuracy in attendance marking using ML and React Native.*  
+   [Repository Link](https://github.com/Ronitkothari22/attendx)
+
+3. **Doctor Appointment App**  
+   *Comprehensive patient appointment and scheduling system.*  
+   [Repository Link](https://github.com/Ronitkothari22/doctor-appointment)
+
+## 🛠️ Technical Skills
+- **Programming Languages:** Python, Java, JavaScript, Dart, C++  
+- **Machine Learning:** TensorFlow, Scikit-learn, Pandas, NumPy, PyTorch  
+- **Web Development:** React.js, Node.js, RESTful APIs, HTML, CSS  
+- **Mobile Development:** React Native, Flutter  
+- **Database:** MySQL, MongoDB, Firebase  
+- **Tools:** Git, VSCode, Jupyter  
 
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ronitkothari22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
-## 🛠️ Technology Stack
-
-<details>
-<summary><b>Expand to view my tech arsenal!</b></summary>
-
-### 💻 Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,php,cpp,cs,go" />
-</p>
-
-### 🎨 Frontend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,next,vue,tailwind,sass,bootstrap,materialui" />
-</p>
-
-### 🔧 Backend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,django,flask,express" />
-</p>
-
-### ☁️ Cloud & DevOps
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,aws,azure,firebase,docker,kubernetes" />
-</p>
-
-### 🛠️ Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,ps,ai,vscode,postman,netlify,vercel" />
-</p>
-
-</details>
-
+## 📫 Let's Connect
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Ronitkothari22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Ronitkothari22&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronitkothari22&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Most Used Languages" />
-      </td>
-      <td width="50%">
-        <img src="https://github-profile-trophy.vercel.app/?username=Ronitkothari22&theme=discord&row=2&column=3&hide_border=true" alt="GitHub Trophies" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ronitkothari22&theme=tokyo-night&hide_border=true" width="90%">
-</div>
-
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
-## 🎵 Vibing to
-<div align="center">
-  
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=6i7m5gb7t2xhxick44s70juyk&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://rahulmistry.in)
-
-</div>
-
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
-## 🎯 Current Focus
-
-<div align="center">
-<table>
-  <tr>
-    <td>
-      <div align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80" />
-        <h4>🔥 Learning & Growing</h4>
-      </div>
-      <ul align="left">
-        🎓 Advanced System Design Patterns<br>
-        ☁️ Cloud-Native Architecture<br>
-        🤖 AI/ML Integration in Web Apps<br>
-        📊 Data Engineering at Scale<br>
-        🔐 Advanced Security Practices
-      </ul>
-    </td>
-    <td>
-      <div align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80" />
-        <h4>📚 Current Reads</h4>
-      </div>
-      <ul align="left">
-        📖 Clean Architecture by Robert C Martin<br>
-        📘 System Design Interview<br>
-        📗 Designing Data-Intensive Applications<br>
-        📕 The Psychology of Money<br>
-        📙 Zero to One by Peter Thiel
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80" />
-        <h4>🚀 Building & Shipping</h4>
-      </div>
-      <ul align="left">
-        ⚡ High-Performance Microservices<br>
-        🛠️ Developer Productivity Tools<br>
-        🌐 Open Source Projects<br>
-        📱 Cross-Platform Mobile Apps<br>
-        🎮 Web3 Gaming Platform
-      </ul>
-    </td>
-    <td>
-      <div align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="80" />
-        <h4>🤝 Contributing To</h4>
-      </div>
-      <ul align="left">
-        💫 Major Open Source Projects<br>
-        👥 Tech Community Growth<br>
-        📝 Technical Blog Posts<br>
-        🎤 Tech Talks & Workshops<br>
-        🌱 Mentoring Juniors
-      </ul>
-    </td>
-  </tr>
-</table>
-</div>
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-<details>
-<summary><h2>😄 Developer Life in GIFs</h2></summary>
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <div align="center">
-         <img src="https://i.giphy.com/Dh5q0sShxgp13DwrvG.webp" width="280"/>
-        </div>
-      </td>
-      <td width="50%">
-        <div align="center">
-          <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGExbzY2Y2NpMjY4ZGx5aTFscm04amRnbXM1enJ0ZXNmeTR3a3d5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pufOOG2cplDtfyQXL1/giphy-downsized-large.gif" width="280"/>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <div align="center">
-          <img src="https://i.giphy.com/HLB0nLA36GCCo6JuB5.webp" width="280"/>
-        </div>
-      </td>
-      <td width="50%">
-        <div align="center">
-          <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamFldzFqY3Y2b2ExMDduMTlldm9laW5mdW4wdGsxYmZkNmx2Nnk5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vrxxqQbyRxYi6scCjT/giphy.webp" width="280"/>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <div align="center">
-          <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM29jbThhZzhzeGhpZmlsNjZ6dnQwbTZxM3pqZmxicWN4Njg1cWk0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pzmbXFDiRbEEk1vCtP/giphy.gif" width="280"/>
-        </div>
-      </td>
-      <td width="50%">
-        <div align="center">
-        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3djbHlwOXljang2b2FncnZmOWRtc2x1M2o0Y2Z4MzB2anpzNHJwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="280"/>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <div align="center">
-          <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2RrdWNrODJkbmEyN2E4cm5jeHh6MTVsNHpwYzVtMmJ1aTY5dXZhaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wDcmx1GNDwp1SGvldp/giphy.gif" width="280"/>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-</details>
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
-## 📫 Let's Connect!
-
-<div align="center">
-  <a href="https://ronitportfolio-ronitkotharis-projects.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white" />
+  <a href="mailto:ronitkothari22@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ronit-kothari-843987251/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/ronit-kothari-843987251/">
+  <a href="https://github.com/Ronitkothari22">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
-  <a href="mailto:ronitkothari22@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
-## 💭 Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-  <h3>🤝 Let's build something amazing together!</h3>
-  <p>Open for collaborations and interesting projects</p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
