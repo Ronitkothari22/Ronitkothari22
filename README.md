@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6E57F7&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Rahul+Mistry;Full+Stack+Developer;Problem+Solving+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6E57F7&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Ronit+kothari;Full+Stack+Developer+AI+ML+Enthusiast;Problem+Solving+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -15,30 +15,25 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/prodigyRahul/prodigyRahul">
+  <a href="https://github.com/Ronitkothari22/Ronitkothari22">
     <img src="https://komarev.com/ghpvc/?username=bytebrewer1&color=red" alt="profile views" />
   </a>
-  <a href="https://stackoverflow.com">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/21890981?color=orange&label=reputation&logo=stackoverflow">
+
   </a>
-  <a href="https://www.hackerrank.com/22CS042_RAHUL">
+  <a href="https://www.hackerrank.com/profile/22CS031_Ronit">
     <img alt="HackerRank" src="https://img.shields.io/badge/hackerrank-15+-green?color=green&logo=hackerrank">
   </a>
-  <a href="https://github.com/prodigyRahul?tab=followers">
+  <a href="https://github.com/Ronitkothari22?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/bytebrewer1?color=yellow&logo=github">
   </a>
-  <a href="https://medium.com/@rahulmistry032">
-    <img alt="Medium" src="https://img.shields.io/badge/medium-43+-green?color=green&logo=medium">
-  </a>
-  <a href="https://www.linkedin.com/in/mistryrahul">
+
+  <a href="https://www.linkedin.com/in/ronit-kothari-843987251/">
     <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-3.1K-blue?color=blue&logo=linkedin">
   </a>
-  <a href="https://rahulmistry.in">
+  <a href="https://ronitportfolio-ronitkotharis-projects.vercel.app/">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio_Views-3000-violet?color=indigo&logo=readme">
   </a>
-  <a href="https://www.instagram.com/_rahulmistry">
-    <img alt="Instagram Followers" src="https://img.shields.io/badge/friends-600-blue?color=violet&logo=instagram">
-  </a>
+
 </div>
 
 <div align="center">
