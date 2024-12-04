@@ -66,19 +66,7 @@
         <li>🎯 Goal: Impact millions through technology</li>
       </ul>
     </td>
-    <td width="50%">
-      <h3 align="center">🌟 Fun Facts</h3>
-      <div align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="250">
-      </div>
-      <ul>
-        <li>🥋 2x National Karate Gold Medalist</li>
-        <li>☕ Professional Bug Creator (and Solver)</li>
-        <li>🎮 Competitive Programming Enthusiast</li>
-        <li>📚 Forever Student of Technology</li>
-      </ul>
-    </td>
-  </tr>
+
 </table>
 
 <div align="center">
@@ -133,17 +121,17 @@
 
 ### 💻 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,ruby,php,cpp,cs,go,kotlin" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,php,cpp,cs,go" />
 </p>
 
 ### 🎨 Frontend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,next,vue,angular,tailwind,sass,bootstrap,materialui" />
+  <img src="https://skillicons.dev/icons?i=react,next,vue,tailwind,sass,bootstrap,materialui" />
 </p>
 
 ### 🔧 Backend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,django,flask,express,spring,laravel" />
+  <img src="https://skillicons.dev/icons?i=nodejs,django,flask,express" />
 </p>
 
 ### ☁️ Cloud & DevOps
@@ -168,25 +156,25 @@
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=ProdigyRahul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Ronitkothari22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=ProdigyRahul&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Ronitkothari22&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProdigyRahul&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Most Used Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronitkothari22&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Most Used Languages" />
       </td>
       <td width="50%">
-        <img src="https://github-profile-trophy.vercel.app/?username=ProdigyRahul&theme=discord&row=2&column=3&hide_border=true" alt="GitHub Trophies" />
+        <img src="https://github-profile-trophy.vercel.app/?username=Ronitkothari22&theme=discord&row=2&column=3&hide_border=true" alt="GitHub Trophies" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ProdigyRahul&theme=tokyo-night&hide_border=true" width="90%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ronitkothari22&theme=tokyo-night&hide_border=true" width="90%">
 </div>
 
 <div align="center">
@@ -330,22 +318,17 @@
 ## 📫 Let's Connect!
 
 <div align="center">
-  <a href="https://rahulmistry.in">
+  <a href="https://ronitportfolio-ronitkotharis-projects.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/mistryrahul/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/ProdigyRahul">
+  <a href="https://www.linkedin.com/in/ronit-kothari-843987251/">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://medium.com/@rahulmistry032">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  <a href="https://dev.to/rahulmistry">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdot.to&logoColor=white" />
-  </a>
-  <a href="mailto:rahulmistry.sde@gmail.com">
+
+  <a href="mailto:ronitkothari22@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
