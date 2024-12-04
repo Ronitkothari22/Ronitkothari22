@@ -321,7 +321,7 @@
   <a href="https://ronitportfolio-ronitkotharis-projects.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/mistryrahul/">
+  <a href="https://www.linkedin.com/in/ronit-kothari-843987251/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ronit-kothari-843987251/">
