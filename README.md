@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6E57F7&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Ronit+Kothari;Full+Stack+Developer+AI/ML+Enthusiast;Problem+Solver+and+Innovator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6E57F7&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B+I'm+Ronit+Kothari;Full+Stack+Developer;AI+and+ML+Enthusiast;Problem+Solver+and+Innovator" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -33,6 +33,24 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
+## 🛠️ Technical Skills
+<div align="center">
+  <h4>Programming Languages</h4>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js" alt="Programming Languages">
+  
+  <h4>Frontend Development</h4>
+  <img src="https://skillicons.dev/icons?i=html,css,react,flutter" alt="Frontend Development">
+
+  <h4>Backend Development</h4>
+  <img src="https://skillicons.dev/icons?i=nodejs,flask,django" alt="Backend Development">
+
+  <h4>Database & Cloud</h4>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws" alt="Database and Cloud">
+
+  <h4>Tools & Platforms</h4>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" alt="Tools and Platforms">
+</div>
+
 ## 🏆 Achievements and Milestones
 <ul>
   <li>🏆 Secured Top 10 Position at Gateway Hackathon</li>
@@ -54,14 +72,6 @@
 3. **Doctor Appointment App**  
    *Comprehensive patient appointment and scheduling system.*  
    [Repository Link](https://github.com/Ronitkothari22/doctor-appointment)
-
-## 🛠️ Technical Skills
-- **Programming Languages:** Python, Java, JavaScript, Dart, C++  
-- **Machine Learning:** TensorFlow, Scikit-learn, Pandas, NumPy, PyTorch  
-- **Web Development:** React.js, Node.js, RESTful APIs, HTML, CSS  
-- **Mobile Development:** React Native, Flutter  
-- **Database:** MySQL, MongoDB, Firebase  
-- **Tools:** Git, VSCode, Jupyter  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ronitkothari22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
